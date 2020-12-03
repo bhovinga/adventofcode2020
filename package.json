@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode2020",
+  "description": "2020 Advent of Code",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bhovinga@github.com/bhovinga/adventofcode2020.git"
+  },
+  "author": "Brad Hovinga",
+  "homepage": "https://github.com/bhovinga/adventofcode2020#readme"
+}
